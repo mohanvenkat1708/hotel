@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Low Poly] Hotel
+* source:	https://sketchfab.com/3d-models/low-poly-hotel-dea0b07505224ef49840a521025b47e0
+* author:	Eudes Tenório (https://sketchfab.com/eudestenorio)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Low Poly] Hotel" (https://sketchfab.com/3d-models/low-poly-hotel-dea0b07505224ef49840a521025b47e0) by Eudes Tenório (https://sketchfab.com/eudestenorio) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
